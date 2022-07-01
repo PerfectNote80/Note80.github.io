@@ -1,42 +1,61 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h2><em>상품구성</em></h2>
-    <table>
-        <caption>선물용과 가정용 상품 구성</caption>
-        <thead>
-        <tr>
-            
-            <th>용도</th>
-            <th>중량</th>
-            <th>개수</th>
-            <th>가격</th>
-            
-        </tr>
-        </thead>
-        <tbody>
-            <tr>
-              <td>선물용</td>
-              <td>3kg</td>
-              <td>11~16과</td>
-              <td>35,000원</td>
-            </tr>
-            <tr>
-                <td>선물용</td>
-                <td>5kg</td>
-                <td>18~26과</td>
-                <td>52,000원</td>
-            </tr>
-            
-            
-        </tbody>
-    </table>
-    <h1>냠냠</h1>
-</body>
-</html>
+<p><blockquote><h1>지필평가 교과목별 정답/배점</h1></blockquote></p><p>고사: 기말고사  교과목 : 사회</p>
+<table>
+    <thead>
+    <tr>
+        <th>문항</th>
+        <th>배점</th>
+        <th>정답</th>
+        <th>복수구분</th>
+        <th>문항</th>
+        <th>배점</th>
+        <th>정답</th>
+        <th>복수구분</th>
+        <th>문항</th>
+        <th>배점</th>
+        <th>정답</th>
+        <th>복수구분</th>
+        <th>문항</th>
+        <th>배점</th>
+        <th>정답</th>
+        <th>복수구분</th>
+    </tr>
+    <td>1</td>
+    <td>2</td>
+    <td>3</td>
+    <td>4</td>
+    <td>5</td>
+    <td>6</td>
+    <td>7</td>
+    <td>8</td>
+    <td>9</td>
+    <td>10</td>
+    <td>11</td>
+    <td>12</td>
+    <td>13</td>
+    <td>14</td> 
+    <td>15</td>
+    <td>16</td>
+    <td>17</td>
+    <td>18</td>
+    <td>19</td>
+    <td>20</td>
+    <td>21</td> 
+    <td>22</td>
+    <td>23</td>
+    <td>24</td>
+    <td>25</td>
+    <td>26</td>
+    <td>27</td>
+    <td>28</td> 
+    <td>29</td>
+    <td>30</td>
+    <td>31</td>
+    <td>32</td>
+    <td>33</td>
+    <td>34</td> 
+    <td></td>
+
+
+    </thead>
+    
+</table>
